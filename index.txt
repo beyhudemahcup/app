@@ -1,4 +1,5 @@
 
-
+merhaba
+ikinci satir 
 masterdan gelen guncelleme
 bir kez daha guncelledim
